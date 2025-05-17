@@ -65,7 +65,7 @@
                     </view>
                     <connections>
                         <outlet property="falseButton" destination="tbn-vQ-GyC" id="Hpd-HM-nV7"/>
-                        <outlet property="progressBar" destination="eGL-jB-Wwb" id="QrQ-yE-fgN"/>
+                        <outlet property="progressBar" destination="TXm-qh-7Xg" id="YHk-Eo-qAJ"/>
                         <outlet property="questionText" destination="rSI-li-mhO" id="0Yc-9j-3qD"/>
                         <outlet property="trueButton" destination="oVw-Hl-IRe" id="p1N-Og-R53"/>
                     </connections>
